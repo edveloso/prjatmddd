@@ -7,7 +7,7 @@ public class PublicadorEventos {
 	
 	private List<Ouvinte> ouvintes = new ArrayList<Ouvinte>();
 	
-	public void adicionar(final Ouvinte ouvinte) {
+	public void adicionarOuvinte(final Ouvinte ouvinte) {
 		this.ouvintes.add(ouvinte);
 	}
 

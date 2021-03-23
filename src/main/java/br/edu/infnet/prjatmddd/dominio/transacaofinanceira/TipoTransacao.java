@@ -1,5 +1,6 @@
 package br.edu.infnet.prjatmddd.dominio.transacaofinanceira;
 
-public class TipoTransacao {
+public enum TipoTransacao {
+	CREDITO;
 
 }

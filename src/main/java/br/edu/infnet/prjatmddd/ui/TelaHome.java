@@ -31,7 +31,8 @@ public class TelaHome extends Ouvinte {
 
 	@Override
 	protected boolean deveProcessarEvento(Evento evento) {
-		return evento.tipo().equals(TipoDeEvento.ALUNO_MATRICULADO);
+		return evento.tipo().equals(TipoDeEvento.ALUNO_MATRICULADO)
+				|| evento.tipo().equals(TipoDeEvento.CONTA_ATUALIZADA);
 	}
 
 }
