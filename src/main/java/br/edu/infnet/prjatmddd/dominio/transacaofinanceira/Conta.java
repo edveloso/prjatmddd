@@ -3,6 +3,7 @@ package br.edu.infnet.prjatmddd.dominio.transacaofinanceira;
 import java.util.ArrayList;
 import java.util.List;
 
+//ENTIDADE
 public class Conta {
 	
 	private Cliente cliente;

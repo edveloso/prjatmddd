@@ -1,5 +1,7 @@
 package br.edu.infnet.prjatmddd.dominio.transacaofinanceira;
 
+
+//objeto de valor
 public class Endereco {
 	
 	private String logradouro;

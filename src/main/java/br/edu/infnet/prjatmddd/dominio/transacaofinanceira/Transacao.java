@@ -1,6 +1,8 @@
 
 package br.edu.infnet.prjatmddd.dominio.transacaofinanceira;
 
+
+//value object
 public class Transacao {
 
 	private TipoTransacao credito;
