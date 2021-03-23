@@ -1,8 +1,8 @@
 package br.edu.infnet.prjatmddd.aplicacao;
 
-import br.edu.infnet.prjatmddd.dominio.evento.EventoContaAtualizada;
 import br.edu.infnet.prjatmddd.dominio.evento.PublicadorEventos;
 import br.edu.infnet.prjatmddd.dominio.transacaofinanceira.Conta;
+import br.edu.infnet.prjatmddd.dominio.transacaofinanceira.EventoContaAtualizada;
 import br.edu.infnet.prjatmddd.dominio.transacaofinanceira.IRepositorioConta;
 
 public class Depositar {

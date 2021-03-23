@@ -1,7 +1,10 @@
-package br.edu.infnet.prjatmddd.dominio.evento;
+package br.edu.infnet.prjatmddd.dominio.transacaofinanceira;
 
 import java.time.LocalDateTime;
 import java.util.Map;
+
+import br.edu.infnet.prjatmddd.dominio.evento.Evento;
+import br.edu.infnet.prjatmddd.dominio.evento.TipoDeEvento;
 
 public class EventoContaAtualizada implements Evento{
 
