@@ -4,7 +4,7 @@ import br.edu.infnet.prjatmddd.aplicacao.Depositar;
 import br.edu.infnet.prjatmddd.dominio.evento.PublicadorEventos;
 import br.edu.infnet.prjatmddd.dominio.transacaofinanceira.Conta;
 import br.edu.infnet.prjatmddd.dominio.transacaofinanceira.IRepositorioConta;
-import br.edu.infnet.prjatmddd.infra.usuarios.RepositorioContaEmMemoria;
+import br.edu.infnet.prjatmddd.infra.transacaofinanceira.RepositorioContaEmMemoria;
 import br.edu.infnet.prjatmddd.ui.TelaHome;
 
 /**

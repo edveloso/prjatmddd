@@ -1,4 +1,4 @@
-package br.edu.infnet.prjatmddd.infra.usuarios;
+package br.edu.infnet.prjatmddd.infra.transacaofinanceira;
 
 import br.edu.infnet.prjatmddd.dominio.transacaofinanceira.Conta;
 import br.edu.infnet.prjatmddd.dominio.transacaofinanceira.IRepositorioConta;
